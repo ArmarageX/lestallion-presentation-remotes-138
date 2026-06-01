@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-presentation-remotes-138
+  runtime: static
+  staticPublishPath: public
